@@ -7,3 +7,6 @@ The task is to
 * Create a grid world
 * Move the agent to the goal by using a reinforcement learning method
 
+## Results
+The image Result_01.png is the result of the Sarsa version.
+The agent did reach the goal but it looks like the path isn't that efficient.
