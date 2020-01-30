@@ -9,4 +9,5 @@ The task is to
 
 ## Results
 The image Result_01.png is the result of the Sarsa version.
+Here, alpha = 0.5, gamma = 1.0
 The agent did reach the goal but it looks like the path isn't that efficient.
