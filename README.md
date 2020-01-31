@@ -14,3 +14,15 @@ The agent did reach the goal but it looks like the path isn't that efficient.
 
 
 ![result_01](https://github.com/shulace13/cit_prob_robotics_19/blob/master/Result_01.png)
+
+The image Result_02.png is another result of the Sarsa version.
+Here, alpha = 0.8 and gamma = 1.0
+This time, I set an obstacle and the agent managed to go around it.
+
+
+![result_01](https://github.com/shulace13/cit_prob_robotics_19/blob/master/Result_02.png)
+
+## Future works
+Doing this task was interesting. It is my first time trying out something related to machine learning.
+
+I would love to get back to this code once I finish my thesis paper.
