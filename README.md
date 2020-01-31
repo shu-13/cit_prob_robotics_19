@@ -26,3 +26,8 @@ This time, I set an obstacle and the agent managed to go around it.
 Doing this task was interesting. It is my first time trying out something related to machine learning.
 
 I would love to get back to this code once I finish my thesis paper.
+
+
+#### Reference
+Source code from the class in 2017
+https://github.com/ryuichiueda/probrobo2017/blob/master/09.ipynb
